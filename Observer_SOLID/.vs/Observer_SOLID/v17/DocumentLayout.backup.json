@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BC7A553-2714-46FB-A017-08D5DF007BE1}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\number_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6BC7A553-2714-46FB-A017-08D5DF007BE1}|Observer_SOLID.vcxproj|solutionrelative:number_pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INObserver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|solutionrelative:INObserver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\checkCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|solutionrelative:checkCommand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\FilterFartory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|solutionrelative:FilterFartory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|solutionrelative:INFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49CC7729-466A-43D7-A58F-0294D01B9A2E}|Observer_SOLID.vcxproj|solutionrelative:INReader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INFilter.h",
+              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INFilter.h",
+              "RelativeDocumentMoniker": "INFilter.h",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INFilter.h",
+              "RelativeToolTip": "INFilter.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T06:17:38.756Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
@@ -38,15 +71,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INReader.h",
+              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INReader.h",
+              "RelativeDocumentMoniker": "INReader.h",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INReader.h",
+              "RelativeToolTip": "INReader.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T11:55:24.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INObserver.h",
+              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INObserver.h",
+              "RelativeDocumentMoniker": "INObserver.h",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\INObserver.h",
+              "RelativeToolTip": "INObserver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T11:47:13.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checkCommand.h",
+              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\checkCommand.h",
+              "RelativeDocumentMoniker": "checkCommand.h",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\checkCommand.h",
+              "RelativeToolTip": "checkCommand.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-30T09:23:13.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterFartory.h",
+              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\FilterFartory.h",
+              "RelativeDocumentMoniker": "FilterFartory.h",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\FilterFartory.h",
+              "RelativeToolTip": "FilterFartory.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-29T04:29:28.531Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "number_pipeline.cpp",
-              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\number_pipeline.cpp",
-              "RelativeDocumentMoniker": "number_pipeline.cpp",
-              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\number_pipeline.cpp*",
-              "RelativeToolTip": "number_pipeline.cpp*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAkwGAAAAAAAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\1_Programming\\Hellil IT shcool\\Home_Work\\5_HomeWork\\Observer_SOLID\\main.cpp*",
+              "RelativeToolTip": "main.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-18T08:03:06.865Z",
+              "WhenOpened": "2025-05-27T03:07:53.806Z",
               "EditorCaption": ""
             }
           ]

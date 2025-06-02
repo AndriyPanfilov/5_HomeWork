@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6bc7a553-2714-46fb-a017-08d5df007be1}</ProjectGuid>
+    <ProjectGuid>{49cc7729-466a-43d7-a58f-0294d01b9a2e}</ProjectGuid>
     <RootNamespace>ObserverSOLID</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="number_pipeline.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Filter.h" />
-    <ClInclude Include="InputData_head.h" />
+    <ClInclude Include="checkCommand.h" />
+    <ClInclude Include="FilterFartory.h" />
+    <ClInclude Include="INFilter.h" />
+    <ClInclude Include="INObserver.h" />
+    <ClInclude Include="INReader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
