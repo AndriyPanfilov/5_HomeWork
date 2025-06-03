@@ -88,6 +88,8 @@ int main(int argc, char* argv[]) {
     //========================= оепедюбюммъ Б NumberProcessor, гюосяй run() ==================================================
     NumberProcessor processor(*INR, *INF, observers);
     processor.run();
+
+    observers.clear();
         
   
   

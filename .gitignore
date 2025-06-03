@@ -1,4 +1,5 @@
 # Visual Studio загальні файли
+.vs/
 *.suo
 *.user
 *.userosscache
