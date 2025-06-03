@@ -18,6 +18,7 @@
 *.ipdb
 *.tlog
 *.lastbuildstate
+*.filters
 
 # Папки build
 Observer_SOLID/Observer_SOLID/x64/
@@ -46,3 +47,4 @@ Observer_SOLID/Observer_SOLID.vcxproj.user
 
 # Резервні копії
 *~
+Observer_SOLID.vcxproj.filters
